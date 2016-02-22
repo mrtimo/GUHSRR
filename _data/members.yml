@@ -1,6 +1,13 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Tim Olsen
+  affiliation: School of Business, Gonzaga
+  github: mrtimo
   interests:
-    - Programming
-    - Open Science
+    - Nursing
+    - Research
+    
+- name: Shannon Zaranski
+  affiliation: School of Nursing & Human Physiology, Gonzaga University
+  interests:
+    - Business Process Management
+    - Open Health Care Initiatives
+
