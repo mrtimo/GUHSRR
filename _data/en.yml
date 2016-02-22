@@ -6,14 +6,14 @@ tellMeMore: Tell Me More
 
 activitiesSubheading: 'And you can, too!'
 activities:
-  - title: Skill Sharing
-    description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
+  - title: Research Collaboration
+    description: 'Meet and collaborate on research projects in an inter-disciplinary fashion.</p>'
     icon: fa-comment
-  - title: Co-Working
-    description: 'Get together to work on your coding projects, help each other out and share your work.'
+  - title: Co-Creating
+    description: 'Get together to discuss research opportunities, help each other out and share your work.'
     icon: fa-laptop
   - title: Community Building
-    description: 'Meet new people in your field, organization or community - and find out what we can do when we work together.'
+    description: 'Meet new people in the Spokane Health Services area - and find out what we can do when we work together.'
     icon: fa-group
 
 events: Events
@@ -40,4 +40,4 @@ teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"
 interests: Interests
 
-codeOfConduct: Study Group Code of Conduct
+codeOfConduct: Research Code of Conduct
