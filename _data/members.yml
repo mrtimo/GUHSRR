@@ -1,13 +1,13 @@
+- name: Shannon Zaranski
+  affiliation: School of Nursing & Human Physiology, Gonzaga University
+  interests:
+    - Business Process Management
+    - Open Health Care Initiatives
+    
 - name: Tim Olsen
   affiliation: School of Business, Gonzaga
   github: mrtimo
   interests:
     - Nursing
     - Research
-    
-- name: Shannon Zaranski
-  affiliation: School of Nursing & Human Physiology, Gonzaga University
-  interests:
-    - Business Process Management
-    - Open Health Care Initiatives
 
